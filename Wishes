@@ -1,27 +1,33 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Happy Birthday</title>
+  <title>Happy Birthday Khushi 💗</title>
+  <style>
+    body {
+      background-color: #ffe6f0;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    img {
+      width: 250px;
+      border-radius: 20px;
+      margin-top: 20px;
+    }
+  </style>
 </head>
+
 <body>
+  <h1>Happy Birthday Khushi 🎀</h1>
+  <p>This little website is just for you 💕</p>
 
-<h1>Happy Birthday ❤️</h1>
-<p>Scroll slowly 💕</p>
+  <img src="photo1.jpg">
 
-<img src="photo1.jpg">
-<audio controls>
-  <source src="song1.mp3">
-</audio>
+  <br><br>
 
-<img src="photo2.jpg">
-<audio controls>
-  <source src="song2.mp3">
-</audio>
-
-<img src="photo3.jpg">
-<audio controls>
-  <source src="song3.mp3">
-</audio>
+  <audio controls>
+    <source src="song1.mp3" type="audio/mpeg">
+  </audio>
 
 </body>
 </html>
+

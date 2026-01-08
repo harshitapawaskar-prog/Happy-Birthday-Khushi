@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Happy Birthday</title>
+</head>
+<body>
+
+<h1>Happy Birthday ❤️</h1>
+<p>Scroll slowly 💕</p>
+
+<img src="photo1.jpg">
+<audio controls>
+  <source src="song1.mp3">
+</audio>
+
+<img src="photo2.jpg">
+<audio controls>
+  <source src="song2.mp3">
+</audio>
+
+<img src="photo3.jpg">
+<audio controls>
+  <source src="song3.mp3">
+</audio>
+
+</body>
+</html>
